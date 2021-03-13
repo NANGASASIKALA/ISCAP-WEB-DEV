@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+first class</title>
+</head>
+<body>
+<h1>first day of the web development class</h1>
+<p>Topics covered are basic tags:<br><ul><li>paragraph</li>
+<li>lists</li>
+<li>links</li>
+<li>headings tag</li></ul>
+</p>
+<br>
+<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fnurserynisarga.in%2Fwp-content%2Fuploads%2F2019%2F10%2FRed-Rose.jpg&imgrefurl=https%3A%2F%2Fnurserynisarga.in%2Fproduct%2Fred-rose-laal-gulab-plant%2F&tbnid=MJkeq8wOGXr6RM&vet=12ahUKEwi4z5S0la3vAhVSSCsKHQ_5CeUQMygCegUIARDmAQ..i&docid=s8ic_Y3jcuXRMM&w=500&h=500&q=rose&safe=active&ved=2ahUKEwi4z5S0la3vAhVSSCsKHQ_5CeUQMygCegUIARDmAQ">ROSE</a>
+</p>
+<ol>
+    <li><h1>sample</h1></li>
+    <li><h1>sample</h1></li>
+    <li><h3>sample</h3></li>
+    <li><h4>sample</h4></li>
+<li><h5>sample</h5></li>
+<li><h6>sample</h6></li>
+</ol>
+</body>
+</html>
